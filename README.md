@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on Web3 CEX.
+🔭 I’m currently working on Web3 DEX.
 
 🌱 I’m currently learning blockchain dev.
 
